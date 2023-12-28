@@ -1,0 +1,7 @@
+TOYOTA BLEU CAMRY 2020 150.000000 disponible
+FORD ROUGE FOCUS 2019 210.000000 disponible
+BMW NOIR X5 2021 320.000000 panne
+MERCEDES-Bgris gris C-CLASSE 2022 400.000000 disponible
+volkswagenbleu bleu GOLF 2018 100.000000 panne
+volkswagenrouge rouge GOLF 2018 100.000000 panne
+Mercedes gris rs 2012 145.000000 indisponible
