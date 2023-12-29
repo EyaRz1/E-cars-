@@ -1,6 +1,6 @@
 # E-cars-
 Mon projet est une simple application cmd de location de voitures avec une simple interface en ligne de commande //(j'ai utilisée la bibliotheque Windows.h donc si vous utilisez un systeme linux ca va generer une erreur en raison de l'incompatibilité entre les bibliothèques ).
-//Remarque : le code est dans main.c mais pour executer cliquez sur project1.exe
+
 
 Il utilise des structures de données pour stocker les informations sur les voitures et les clients, et les fichiers "catalogue.txt" pour stocker les informations sur les voitures et "hist jour.txt" pour enregistrer l'historique journaliére des locations. (Vous trouverez ces fichiers ci-joint dans le répertoire du programme)
 
