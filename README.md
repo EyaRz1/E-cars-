@@ -5,7 +5,7 @@ Mon projet est une simple application cmd de location de voitures avec une simpl
 Il utilise des structures de données pour stocker les informations sur les voitures et les clients, et les fichiers "catalogue.txt" pour stocker les informations sur les voitures et "hist jour.txt" pour enregistrer l'historique journaliére des locations. (Vous trouverez ces fichiers ci-joint dans le répertoire du programme)
 
 ##EXECUTION:
-lors de l'execution un messagebox va apparaitre (simplement pour donner à l'application une apparence plus authentique).Puis l'utilisation doit se connecter pour que le menu apparaisse.Le menu comporte 10 options :
+lors de l'execution un messagebox va apparaitre (simplement pour donner à l'application une apparence plus authentique).Puis l'utilisateur doit se connecter pour que le menu apparaisse.Le menu comporte 10 options :
          Afficher le catalogue
          Ajouter une voiture
          Supprimer une voiture
